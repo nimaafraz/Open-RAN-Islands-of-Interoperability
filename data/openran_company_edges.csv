@@ -1,0 +1,98 @@
+CompanyA,CompanyB,Weight
+Samsung,Vodafone,3
+Baicells,QCT,2
+Baicells,Wind River,2
+Dell,Orange,2
+Dell,Vodafone,2
+Fujitsu,Mavenir,2
+Fujitsu,NEC,2
+Intel,Radisys,2
+Orange,Samsung,2
+QCT,Wind River,2
+Rohde & Schwarz,VIAVI S.,2
+1&1 Drillisch,Rakuten S.,1
+A1 Group,Nokia,1
+AMD,OpenAirInterface,1
+AMD,VIAVI S.,1
+ASTRI,Arm,1
+ASTRI,CIG,1
+ASTRI,NXP,1
+ASTRI,Radisys,1
+AT&T,Ciena,1
+AT&T,CommScope,1
+AT&T,DISH W.,1
+AT&T,Ericsson,1
+AT&T,Fujitsu,1
+AT&T,Intel,1
+AT&T,Mavenir,1
+AT&T,Nokia,1
+AT&T,Radisys,1
+AT&T,Samsung,1
+AT&T,VIAVI S.,1
+AT&T,Wind River,1
+AWS,Altiostar,1
+AWS,DISH W.,1
+AWS,Fujitsu,1
+AWS,MTI,1
+AWS,Mavenir,1
+AWS,Nokia,1
+Aarna Networks,NVIDIA,1
+Aarna Networks,Radisys,1
+Accelleran,VIAVI S.,1
+Accelleran,i2CAT,1
+Actiontec,CIG,1
+Actiontec,Keysight,1
+Airspan,Rakuten S.,1
+Airspan,Telkom Kenya,1
+Altiostar,DISH W.,1
+Altiostar,Fujitsu,1
+Altiostar,MTI,1
+Altiostar,Mavenir,1
+Altiostar,Nokia,1
+Analog Devices,Keysight,1
+Arm,CIG,1
+Arm,NXP,1
+Arm,Radisys,1
+Attocore,Intel,1
+Attocore,Picocom,1
+Attocore,Radisys,1
+Baicells,China Unicom,1
+Baicells,Keysight,1
+Baicells,Rohde & Schwarz,1
+Baicells,VIAVI S.,1
+Benetel,Mavenir,1
+CIG,Keysight,1
+CIG,NXP,1
+CIG,Radisys,1
+Casa Systems,Dell,1
+Casa Systems,HPE,1
+Casa Systems,Mavenir,1
+Casa Systems,Orange,1
+Casa Systems,Rohde & Schwarz,1
+Casa Systems,VIAVI S.,1
+China Mobile,Intel,1
+China Mobile,QCT,1
+China Mobile,Radisys,1
+China Unicom,Keysight,1
+China Unicom,QCT,1
+China Unicom,Wind River,1
+Ciena,DISH W.,1
+Ciena,Radisys,1
+Ciena,Wind River,1
+Cisco,Fujitsu,1
+Cisco,NEC,1
+Cisco,Rakuten S.,1
+CommScope,Ericsson,1
+CommScope,Intel,1
+DISH W.,Fujitsu,1
+DISH W.,MTI,1
+DISH W.,Mavenir,1
+DISH W.,Nokia,1
+DISH W.,Radisys,1
+DISH W.,Wind River,1
+Dell,HPE,1
+Dell,Mavenir,1
+Dell,Nokia,1
+Dell,Red Hat,1
+Dell,Samsung,1
+Dell,Wind River,1
