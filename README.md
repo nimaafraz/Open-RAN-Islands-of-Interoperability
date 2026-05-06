@@ -1,9 +1,30 @@
-# Open RAN Interoperability Islands: Co-occurrence Network
+## Paper Information
 
+**Title:** The Pragmatic Openness of Open RAN: Navigating the Path from Vendor Lock-in to Interoperability Islands
+
+**Manuscript ID:** 10297
+
+**Submitted to:** IEEE Latin America Transactions
+
+### Authors and Affiliations
+
+**Nima Afraz**  
+School of Computer Science, University College Dublin, Ireland  
+Email: nima.afraz@ucd.ie
+
+**Mohammad Shojafar**  
+5G/6GIC, Institute for Communication Systems, University of Surrey, United Kingdom  
+Email: m.shojafar@surrey.ac.uk
+
+**Johann M. Marquez-Barja**  
+IDLab, University of Antwerp - imec, Belgium  
+Email: johann.marquez-barja@uantwerpen.be
+
+**Hamed Ahmadi**  
+Department of Electronic Engineering, University of York, United Kingdom  
+Email: hamed.ahmadi@york.ac.uk
 This repository contains the code and data used to generate the Open RAN co-occurrence network figure for the paper:
 
-**“The Pragmatic Openness of Open RAN: Navigating the Path from Vendor Lock-in to Interoperability Islands”**  
-Submitted to **IEEE Latin America Transactions**.
 
 ## Repository contents
 
